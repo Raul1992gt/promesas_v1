@@ -280,7 +280,7 @@ body{
   }
 
   .email-input {
-    background-image: url('/recursos/ICONO EMAIL.svg');
+    background-image: url('https://raul1992gt.github.io/promesas_v1/recursos/ICONO EMAIL.svg');
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: 30px center;
